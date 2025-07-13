@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Alya Maratun Jamilah
 
-<!--
-**jamilah1504/jamilah1504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak  
+🔧 Fokus sebagai Backend & Mobile Developer  
+🌱 Sedang belajar REST API, Git, dan Deployment  
+🚀 Aktif membangun portofolio dengan Laravel, Filament, React Native, dan Flutter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stack
+
+- 🔙 Backend: PHP (Laravel), MySQL
+- 📱 Mobile: React Native (Expo), Flutter (learning)
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 📦 Tools: Git, GitHub, Postman, VSCode, Figma
+
+---
+
+## 🔥 Highlight Projects
+
+- 📚 [Perpustakaan Mobile](https://github.com/jamilah1504/Perpustakaan-Mobile)
+- 🍔 [Delivery Food Mobile](https://github.com/jamilah1504/Delivery-Food-Mobile)
+- 🛒 [Web TNDH (Filament Admin)](https://github.com/jamilah1504/Web-TNDH)
+- 💸 [Web Donasi Al-Falah](https://github.com/jamilah1504/Web-Donasi-Al-Falah)
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [alyamaratun12356@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/alya-maraatun-jamilah-405a04314](#)
+- 🌐 Portofolio: *(Coming Soon)*
+
+---
+✨ "Belajar adalah proses menjadi lebih baik setiap hari."
